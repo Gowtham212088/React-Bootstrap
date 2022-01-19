@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Bootstrap/static/css/main.1e35c2f1.chunk.css",
+    "main.js": "/React-Bootstrap/static/js/main.c89faf1c.chunk.js",
+    "main.js.map": "/React-Bootstrap/static/js/main.c89faf1c.chunk.js.map",
+    "runtime~main.js": "/React-Bootstrap/static/js/runtime~main.08191155.js",
+    "runtime~main.js.map": "/React-Bootstrap/static/js/runtime~main.08191155.js.map",
+    "static/js/2.962fc8e0.chunk.js": "/React-Bootstrap/static/js/2.962fc8e0.chunk.js",
+    "static/js/2.962fc8e0.chunk.js.map": "/React-Bootstrap/static/js/2.962fc8e0.chunk.js.map",
+    "static/js/3.6c748c52.chunk.js": "/React-Bootstrap/static/js/3.6c748c52.chunk.js",
+    "static/js/3.6c748c52.chunk.js.map": "/React-Bootstrap/static/js/3.6c748c52.chunk.js.map",
+    "index.html": "/React-Bootstrap/index.html",
+    "precache-manifest.40ab14a8ed07260a40a23e14b3c832b2.js": "/React-Bootstrap/precache-manifest.40ab14a8ed07260a40a23e14b3c832b2.js",
+    "service-worker.js": "/React-Bootstrap/service-worker.js",
+    "static/css/main.1e35c2f1.chunk.css.map": "/React-Bootstrap/static/css/main.1e35c2f1.chunk.css.map",
+    "static/media/Services1.jpg": "/React-Bootstrap/static/media/Services1.915da388.jpg",
+    "static/media/services2.jpg": "/React-Bootstrap/static/media/services2.1b719cfb.jpg",
+    "static/media/services3.jpg": "/React-Bootstrap/static/media/services3.68ca0d5c.jpg",
+    "static/media/slider1.jpg": "/React-Bootstrap/static/media/slider1.332de3c9.jpg",
+    "static/media/slider2.jpg": "/React-Bootstrap/static/media/slider2.5dfa3827.jpg",
+    "static/media/slider3.jpg": "/React-Bootstrap/static/media/slider3.26623ae1.jpg"
+  }
+}
